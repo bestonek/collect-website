@@ -1,0 +1,82 @@
+﻿//////////google
+练习场 - ACM在线评测系统.html
+http://acm.nyist.net/JudgeOnline/problemset.php
+
+字符串的扩展 - ECMAScript 6入门.html
+http://es6.ruanyifeng.com/?search=Iterator&x=3&y=7#docs/string#模板字符串
+
+es6 新增的map和foreach - shilu89757的专栏 - CSDN博客.html
+http://blog.csdn.net/shilu89757/article/details/42741227
+
+视频搜索 - 妙味课堂.html
+http://2017.miaov.com/study/show/search
+
+免费视频 - 爱前端 _ 专业前端培训 _ 做口碑最好的专业HTML5前端培训机构.html
+http://www.iqianduan.cn/video/
+
+AngularJS的简介和HelloWorld视频教程-AngularJS从入门到实战-麦子学院.html
+http://www.maiziedu.com/course/736-10615/
+
+Node.js 实战开发：博客系统_腾讯课堂.html
+https://ke.qq.com/course/185893
+
+Vue.js.html
+https://cn.vuejs.org/v2/api/
+
+Flex 布局教程：语法篇 - 阮一峰的网络日志.html
+http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool
+
+React 入门实例教程 - 阮一峰的网络日志.html
+http://www.ruanyifeng.com/blog/2015/03/react.html
+
+Javascript模块化编程（三）：require.js的用法 - 阮一峰的网络日志.html
+http://www.ruanyifeng.com/blog/2012/11/require_js.html
+
+WEB前端开发 - 专注前端开发，关注用户体验 - 专注前端开发，关注用户体验.html
+http://www.css88.com/
+
+Zepto.js (1.2.0) API 中文文档-轻量级兼容jQuery的JavaScript库.html
+http://www.css88.com/doc/zeptojs_api/#$.map
+
+////////// opera
+前端性能优化 - 简书.html
+http://www.jianshu.com/p/be5aea4a222f
+
+Sass中的数据类型 _ Sass中文网.html
+https://www.sass.hk/skill/sass136.html
+
+background-image - CSS3参考手册.html
+http://www.css88.com/book/css/properties/background/background-image.htmh
+
+XML 的用途.html
+http://www.w3school.com.cn/xml/xml_usedfor.asp
+
+Swiper中文网.html
+http://www.swiper.com.cn
+
+前端模块化，AMD与CMD的区别 - 付太 - 博客园.html
+http://www.cnblogs.com/futai/p/5258349.html
+
+jQuery 选择器 _ 菜鸟教程.html
+http://www.runoob.com/jquery/jquery-ref-selectors.html
+
+Toucher by bh-lay.html
+http://bh-lay.github.io/toucher/
+
+Node.js 究竟是什么？ - 博客 - 伯乐在线.html
+http://blog.jobbole.com/1254/
+
+ES5 « 张鑫旭-鑫空间-鑫生活.html
+http://www.zhangxinxu.com/wordpress/tag/es5/
+
+webpack_搜索_慕课网.html
+http://www.imooc.com/search/?words=webpack
+
+Node中没搞明白require和import，你会被坑的很惨 - 推酷.html
+http://www.tuicool.com/articles/uuUVBv2
+
+H5-_H5-yaoqinghan at master · bestonek_H5-.html
+https://github.com/bestonek/H5-/tree/master/H5-yaoqinghan
+
+华夏领先股票(001042)基金净值_估值_行情走势—天天基金网.html
+http://fund.eastmoney.com/001042.html?spm=aladin
